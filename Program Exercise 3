@@ -1,0 +1,5 @@
+x = input ("Enter the total square feet: ")
+x = float (x)
+y = 43560.0
+z = str (x/y)
+print("The number of acres in the tract",z)
