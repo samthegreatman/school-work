@@ -1,0 +1,5 @@
+x = input ("Enter the projected amount of total sales: ")
+x = float (x)
+y = 0.23
+z = str (y*x)
+print("The profit that will be made from that amount",z)
